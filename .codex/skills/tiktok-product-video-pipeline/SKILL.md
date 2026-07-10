@@ -18,6 +18,7 @@ Run the complete product-to-video workflow in one request: identify the cataloge
 2. Build the master-photo specification.
    - Keep the product completely unchanged: category, color, shape, pattern, texture, apparent material, proportions, quantity, visible details, and variant.
    - Treat a macro reference as a hard identity lock. For this guide, preserve the cluster of large irregular rounded-rectangular/barrel-shaped beads with black and dark-red marbling, visible separations/grooves, glossy finish, and its exact connection to the small red/black beads. Do not replace it with smooth round beads, uniform cylinders, gemstones, or a different count or silhouette.
+   - Preserve the handmade irregularity of the small beads visible in the original photos: vary their diameter, length, width, edge shape, roundness, gloss and spacing from bead to bead while keeping the same red/black color sequence. Never render a repeated row of identical beads, perfectly circular beads, machine-perfect spacing or a uniform necklace pattern.
    - Define the final environment in the photo itself. Make it refined, attractive, product-appropriate, and stable enough to become the video's first frame.
    - Prefer a clear, separated arrangement over a tangled or crowded one. When a hand is needed for scale, place it beside the guide, parallel and close enough to show proportion, but never touching, holding, crossing over, or covering any bead or section of the product. Keep the entire hand outside the guide's outline.
    - When the user supplies a nail reference, use it for the hand in both the photo and the video: match nail length, shape, colors, finish, pattern and decorative details. Copy only the manicure/hand styling, never the reference image's product or background.
@@ -26,6 +27,7 @@ Run the complete product-to-video workflow in one request: identify the cataloge
 
 3. Generate the photo with the built-in image generation tool.
    - Pass the original product image and every supplied macro/detail image as identity references, not merely style references.
+   - Use the original full product photo to copy the small-bead irregularity. Treat any generated regularity as a fidelity failure even when the colors and general shape look correct.
    - Pass any scale, lifestyle or nail image as a secondary reference and state exactly what to borrow from each one (for example, hand scale only; nail reference only for manicure styling; place the hand beside the guide without contact or overlap; never copy phone UI or unrelated background).
    - Inspect the result before accepting it. Reject and regenerate if the product is shortened, duplicated, rearranged, missing parts, or visually different.
    - Save project-bound outputs as a new versioned asset; never overwrite the original reference.
@@ -46,6 +48,7 @@ Before delivering, verify:
 
 - The generated photo still depicts the same real product, not a stylized approximation.
 - The macro identity detail matches: large marbled beads keep the same irregular silhouette, black/dark-red pattern, grooves, gloss, spacing and connection to the small beads.
+- The small beads retain visible handmade variation in size, shape, edge profile, gloss and spacing; they are not identical repeated units.
 - Product scale matches any confirmed measurement or hand reference.
 - If a hand is used for scale, it stays beside the guide with no contact, overlap, or obstruction of any product detail.
 - If a nail reference is supplied, the same nail style appears consistently in the photo and every video frame.
