@@ -4,6 +4,10 @@
   "slug": "guia-fio-de-contas-exu-pombagira",
   "status": "cataloged",
   "category": "artigos-religiosos",
+  "dimensions": {
+    "length_cm": 60,
+    "source": "customer-screenshot"
+  },
   "price": {
     "amount": 12.68,
     "currency": "BRL",
