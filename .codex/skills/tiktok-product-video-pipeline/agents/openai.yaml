@@ -1,0 +1,7 @@
+interface:
+  display_name: "TikTok Video Pipeline"
+  short_description: "Foto fiel e prompt de vídeo Flow"
+  default_prompt: "Use $tiktok-product-video-pipeline para criar uma nova foto fiel e o prompt de vídeo de 8 segundos para este produto."
+
+policy:
+  allow_implicit_invocation: true
