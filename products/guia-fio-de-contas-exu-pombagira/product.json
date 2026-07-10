@@ -1,0 +1,27 @@
+{
+  "id": "guia-fio-de-contas-exu-pombagira",
+  "title": "Guia Fio de Contas de Exu e Pombagira",
+  "slug": "guia-fio-de-contas-exu-pombagira",
+  "status": "cataloged",
+  "category": "artigos-religiosos",
+  "price": {
+    "amount": 12.68,
+    "currency": "BRL",
+    "observed_at": "2026-07-02"
+  },
+  "attributes": {
+    "colors": ["vermelho", "preto"],
+    "materials": ["miçangas", "miçanga de vidro resistente", "metal em acabamento"],
+    "has_clasp": true
+  },
+  "source": {
+    "type": "listing-screenshots",
+    "captured_at": "2026-07-02",
+    "files": [
+      "assets/gia.webp",
+      "assets/listing.png",
+      "assets/description.png"
+    ]
+  },
+  "notes": "Dados transcritos dos materiais fornecidos; preço e disponibilidade devem ser confirmados antes de publicação."
+}
