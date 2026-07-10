@@ -18,6 +18,10 @@
     "materials": ["miçangas", "miçanga de vidro resistente", "metal em acabamento"],
     "has_clasp": true
   },
+  "visual_identity": {
+    "small_beads": "Miçangas artesanais vermelhas e pretas com tamanhos, comprimentos, larguras, formatos, brilho e espaçamento irregulares; não são unidades uniformes.",
+    "large_beads": "Conjunto de contas grandes alongadas e arredondadas, pretas com mesclas vermelho-escuro, separações visíveis e brilho irregular conforme a referência macro."
+  },
   "source": {
     "type": "listing-screenshots",
     "captured_at": "2026-07-02",
