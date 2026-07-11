@@ -1,0 +1,7 @@
+interface:
+  display_name: "Guia Contas Firma"
+  short_description: "Foto fiel e vídeo Flow desta guia"
+  default_prompt: "Use $guia-contas-firma para fotografar o mesmo produto real em um novo ambiente e criar o prompt de vídeo de 8 segundos sem alterar nenhuma conta."
+
+policy:
+  allow_implicit_invocation: true

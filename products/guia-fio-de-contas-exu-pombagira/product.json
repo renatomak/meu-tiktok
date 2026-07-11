@@ -3,11 +3,7 @@
   "title": "Guia Fio de Contas de Exu e Pombagira",
   "slug": "guia-fio-de-contas-exu-pombagira",
   "status": "cataloged",
-  "category": "artigos-religiosos",
-  "dimensions": {
-    "length_cm": 60,
-    "source": "customer-screenshot"
-  },
+  "category": "artigos-religiosos-de-matriz-africana",
   "price": {
     "amount": 12.68,
     "currency": "BRL",
@@ -15,12 +11,21 @@
   },
   "attributes": {
     "colors": ["vermelho", "preto"],
-    "materials": ["miçangas", "miçanga de vidro resistente", "metal em acabamento"],
-    "has_clasp": true
+    "materials": ["miçangas", "miçanga de vidro resistente"],
+    "construction": "continuous-closed-loop",
+    "has_clasp": false,
+    "has_hook": false,
+    "firm_count": 1
   },
   "visual_identity": {
-    "small_beads": "Miçangas artesanais vermelhas e pretas com tamanhos, comprimentos, larguras, formatos, brilho e espaçamento irregulares; não são unidades uniformes.",
-    "large_beads": "Conjunto de contas grandes alongadas e arredondadas, pretas com mesclas vermelho-escuro, separações visíveis e brilho irregular conforme a referência macro."
+    "small_beads": "Miçangas pequenas e finas em relação à mão e à firma, com variações artesanais de tamanho, espessura, formato, alinhamento e brilho. Misturam formas arredondadas, levemente quadradas e pequenos cilindros; não devem virar contas grandes, perfeitamente uniformes ou industrialmente regulares.",
+    "color_sequence": "Sequência repetida de três contas pretas seguida por três contas vermelhas. A contagem 3 pretas + 3 vermelhas deve ser preservada; a irregularidade artesanal está no formato, tamanho, espessura, alinhamento, espaçamento e brilho das contas, não na quantidade de cada grupo.",
+    "firm": "Uma única firma central: uma conta maior, única e contínua, grossa e alongada, com aparência irregular de barril ou bloco arredondado, base preta brilhante, manchas ou faixas marmorizadas em vermelho-escuro e vinho e relevos ou sulcos visíveis. Os relevos pertencem à mesma conta; não dividir a firma em módulos nem duplicá-la em outros pontos do fio."
+  },
+  "scale_reference": {
+    "status": "visual-reference-only",
+    "file": "assets/customer-reference-open-guide-20260710.png",
+    "note": "Não impor comprimento numérico na geração. Preservar a relação de escala observada entre mão, miçangas pequenas, firma e comprimento aparente da guia aberta."
   },
   "source": {
     "type": "listing-screenshots",
@@ -29,9 +34,10 @@
       "assets/gia.webp",
       "assets/listing.png",
       "assets/description.png",
+      "assets/customer-reference-open-guide-20260710.png",
       "assets/nail-reference-unha06.jpg",
       "assets/macro-reference-large-beads.png"
     ]
   },
-  "notes": "Dados transcritos dos materiais fornecidos; preço e disponibilidade devem ser confirmados antes de publicação."
+  "notes": "A guia é uma peça artesanal inteira, longa, fina, flexível e contínua, sem gancho, fecho ou pontas abertas. Possui uma única firma, formada por uma única conta maior, e sequência de três contas pretas seguida por três contas vermelhas ao longo do fio. A medida numérica anterior foi removida dos dados ativos porque conflita com a escala visual da nova foto real; use a foto aberta do cliente como única autoridade para proporção. Preço e disponibilidade devem ser confirmados antes de publicação."
 }
